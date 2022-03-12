@@ -1,5 +1,5 @@
 # Multi-choice Quiz built with:
-### Python3, Django and SQLite, CSS, VS Code
+### Python3, Django, jQuery, Font Awesome and SQLite, CSS with VS Code
 #### This is the initial phase of application, thus I have started with the SQLite3 database, currently fetching data (quizzes) from the database onto the templates of 4 categories and fetching data from JSON file for 2 categories and rendered onto the respective template files. . .
 
 #### I have deployed this application in Heroku which is available @ https://mcquiz-pydj.herokuapp.com/
